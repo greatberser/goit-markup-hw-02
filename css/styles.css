@@ -115,6 +115,7 @@
     line-height: 1.5;
     font-weight: 400;
     letter-spacing: 0.02em;
+    text-decoration: none;
   }
   
   .address-link.link:hover,
@@ -139,3 +140,9 @@
     background-color: #F4F4FD;
   }
   
+
+  .footer{
+    background-color: var(--primary-background-color);
+    width: 100%;
+    height: 312px;
+  }
