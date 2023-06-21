@@ -36,7 +36,7 @@ header{
     text-transform: capitalize;
 }
 
-h3{
+.title-decription{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     line-height: 1.5;
