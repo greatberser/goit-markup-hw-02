@@ -12,7 +12,6 @@
   }
   
 
-
   .logo.link {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
@@ -29,7 +28,8 @@
     text-decoration: none;
   }
 
-  .list{
+  .list,
+  .list::before{
     list-style: none;
     list-style-type: none;
   }
