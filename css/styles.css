@@ -82,6 +82,10 @@
     text-decoration: none;
   }
   
+  .link{
+
+  }
+  
   .list li {
     list-style-type: none;
   }
@@ -113,6 +117,11 @@
     letter-spacing: 0.02em;
   }
   
+  .address-link.link:hover,
+  .address-link.link:focus {
+    color: var(--hover-color);
+  }
+
   .container {
     max-width: 1128px;
     margin: 0 auto;
