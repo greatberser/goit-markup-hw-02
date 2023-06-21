@@ -107,23 +107,8 @@
     border-radius: 4px;
   }
   
-  
-
-  .container {
-    max-width: 1128px;
-    margin: 0 auto;
-  }
-  
-  .container li {
-    width: 264px;
-    height: 380px;
-    background-color: #ffffff;
-  }
-  
   .primary-section{
     background-color:var(--primary-color);
-    width: 100%;
-    height: 600px;
   }
 
   .title {
@@ -170,16 +155,12 @@
   }
 
   .team {
-    width: 100%;
-    height: 732px;
     background-color: #F4F4FD;
   }
   
 
   .footer{
     background-color: #2E2F42;
-    width: 100%;
-    height: 312px;
   }
 
   .footer .text-link{
