@@ -21,7 +21,7 @@ header{
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
-    line-height: 6;
+    line-height: 1.07;
     letter-spacing: 00.02em;
     text-align: center;
 }
@@ -31,7 +31,7 @@ header{
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11; 
+    line-height: 1.2; 
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
