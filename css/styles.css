@@ -4,6 +4,7 @@
     --secondary-color: #434455;
     --primary-background-color: #2E2F42;
     --secondary-background-color: #F4F4FD;
+    --hover-color: #404BBF;
   }
   
   body {
@@ -96,6 +97,11 @@
     font-size: 16px;
     line-height: 1.17;
     letter-spacing: 0.02em;
+  }
+
+  .nav-link.link:hover,
+  .nav-link.link:focus {
+    color: var(--hover-color);
   }
   
   .address-link.link {
