@@ -22,11 +22,13 @@
 
   .logo.link {
     font-family: 'Raleway', sans-serif;
+    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
     color: var(--primary-logo-color);
   }
   
@@ -37,6 +39,8 @@
   .text-link {
     color: var(--secondary-color);
   }
+
+  
 
   .nav-link.link:hover,
   .nav-link.link:focus {
