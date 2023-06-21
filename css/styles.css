@@ -31,6 +31,11 @@
     text-decoration: none;
   }
 
+  .list{
+    list-style: none;
+    list-style-type: none;
+  }
+
   .text-link {
     color: var(--secondary-color);
   }
@@ -67,8 +72,7 @@
   button {
     border-radius: 4px;
     color: var(--primary-logo-color);
-    background-color: var(--secondary-background-color);
-    border: 1px solid #F4F4FD;
+    
     text-align: center;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
@@ -78,13 +82,26 @@
     cursor: pointer;
   }
 
-  .btn-order{
-    background-color: var(--primary-logo-color);
-    font-family: 'Roboto', sans-serif;
+  .btn{
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+
+    background-color: var(--secondary-background-color);
+    border: 1px solid #F4F4FD;
+    cursor: pointer;
+  }
+
+  .btn:hover, 
+  .btn:focus{
+    background-color: var(--hover-color);
+    color: #ffffff;
+  }
+
+  .btn-order{
+    background-color: var(--primary-logo-color);
     color: #ffffff;
 
     border: none;
@@ -92,10 +109,7 @@
     border-radius: 4px;
   }
   
-  .btn-order:hover,
-  .btn-order:focus{
-    background-color: var(--hover-color);
-  }
+  
 
   .container {
     max-width: 1128px;
@@ -122,6 +136,18 @@
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
+  }
+
+  .title-section{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+  }
+
+  .title-projects {
+    font-family: 'Roboto', sans-serif;
   }
 
   .team {
