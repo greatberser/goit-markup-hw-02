@@ -130,6 +130,12 @@
     background-color: #ffffff;
   }
   
+  .primary-section{
+    background-color: var(--primary-background-color);
+    width: 100%;
+    height: 600px;
+  }
+
   .team {
     width: 100%;
     height: 732px;
