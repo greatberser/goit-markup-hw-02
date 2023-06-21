@@ -149,6 +149,10 @@
     font-family: 'Roboto', sans-serif;
   }
 
+  .list-item{
+    background-color: #FFFFFF;
+  }
+
   .team {
     background-color: #F4F4FD;
   }
