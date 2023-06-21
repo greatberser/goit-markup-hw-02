@@ -47,7 +47,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.5em;
     letter-spacing: 0.02em;
     color: var(--secondary-color);
     width: 264px;
@@ -62,7 +62,7 @@
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height: 1.5em;
     letter-spacing: 0.04em;
     cursor: pointer;
   }
@@ -71,7 +71,7 @@
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.17;
+    line-height: 1.17em;
     color: var(--primary-logo-color);
     letter-spacing: 0.03em;
     text-decoration: none;
@@ -99,7 +99,7 @@
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.17;
+    line-height: 1.17em;
     letter-spacing: 0.02em;
   }
 
@@ -112,7 +112,7 @@
     color: #434455;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.5em;
     font-weight: 400;
     letter-spacing: 0.02em;
     text-decoration: none;
