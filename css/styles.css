@@ -38,20 +38,20 @@ header{
 
 .title-decription{
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
     font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 00.02em;
     color: var(--primary-color);
 }
 
-p{
+.text-decription{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 00.02em;
+    letter-spacing: 0.02em;
     color: var(--secondary-color);
 
     width: 264px;
