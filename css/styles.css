@@ -35,7 +35,7 @@
   }
 
   .text-link {
-    color: var(--secondary-color);
+    color: #2E2F42;
   }
 
 
@@ -183,5 +183,11 @@
   }
 
   .footer .text-link{
+    color: #F4F4FD;
+  }
+
+  .footer-text{
+    letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #F4F4FD;
   }
