@@ -2,7 +2,6 @@
     --primary-logo-color: #4D5AE5;
     --primary-color: #2E2F42;
     --secondary-color: #434455;
-    --primary-background-color: #2E2F42;
     --secondary-background-color: #F4F4FD;
     --hover-color: #404BBF;
   }
@@ -40,10 +39,17 @@
     color: var(--secondary-color);
   }
 
+
+  .nav-item.link{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--primary-color);
+  }
   
 
-  .nav-link.link:hover,
-  .nav-link.link:focus {
+  .nav-item.link:hover,
+  .nav-item.link:focus {
     color: var(--hover-color);
   }
   
