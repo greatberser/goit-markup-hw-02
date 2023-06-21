@@ -1,85 +1,73 @@
-:root{
+:root {
     --primary-logo-color: #4D5AE5;
     --primary-color: #2E2F42;
     --secondary-color: #434455;
     --primary-background-color: #2E2F42;
     --secondary-background-color: #F4F4FD;
-}
-
-
-
-body{
+  }
+  
+  body {
     background-color: #ffffff;
-    color:var(--secondary-color);
-}
-
-header{
+    color: var(--secondary-color);
+  }
+  
+  header {
     border: 1px solid #E7E9FC;
-}
-
-.title{
+  }
+  
+  .title {
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    letter-spacing: 00.02em;
+    letter-spacing: 0.02em;
     text-align: center;
-}
-
-.title-section {
+  }
+  
+  .title-section {
     font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.2; 
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-}
-
-.title-decription{
+  }
+  
+  .title-decription {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 00.02em;
+    letter-spacing: 0.02em;
     color: var(--primary-color);
-}
-
-.text-decription{
+  }
+  
+  .text-decription {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--secondary-color);
-
     width: 264px;
-}
-
-button{
-    box-sizing: border-box;
+  }
+  
+  button {
     border-radius: 4px;
     color: var(--primary-logo-color);
     background-color: var(--secondary-background-color);
     border: 1px solid #F4F4FD;
     text-align: center;
-
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     font-weight: 500;
-    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.04em;
-
     cursor: pointer;
-
-}
-
-
-.logotype{
+  }
+  
+  .logotype {
     font-family: "Raleway", sans-serif;
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -87,54 +75,52 @@ button{
     letter-spacing: 0.03em;
     text-decoration: none;
     text-transform: uppercase;
-}
-
-.link{
+  }
+  
+  .link {
     text-decoration: none;
-}
-
-.list li{
+  }
+  
+  .list li {
     list-style-type: none;
-}
-
-.text-link{
+  }
+  
+  .text-link {
     color: var(--primary-color);
-}
-
-
-.nav-link.link{
+  }
+  
+  .nav-link.link {
     color: var(--primary-color);
     font-family: "Roboto", sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
-    line-height: 2.4;
+    line-height: 1.17;
     letter-spacing: 0.02em;
-}
-
-.address-link.link{
+  }
+  
+  .address-link.link {
     color: var(--secondary-color);
     font-family: "Roboto", sans-serif;
-    font-style: normal;
     font-size: 16px;
-    line-height: 2.4;
+    line-height: 1.17;
     font-weight: 400;
-    letter-spacing: 00.02em;
-}
-
-.container{
+    letter-spacing: 0.02em;
+  }
+  
+  .container {
     max-width: 1128px;
     margin: 0 auto;
-}
-
-.container li{
+  }
+  
+  .container li {
     width: 264px;
     height: 380px;
     background-color: #ffffff;
-}
-
-.team{
+  }
+  
+  .team {
     width: 100%;
     height: 732px;
     background-color: #F4F4FD;
-}
+  }
+  
