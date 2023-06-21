@@ -68,7 +68,6 @@
   }
   
   button {
-    border-radius: 4px;
     color: var(--primary-logo-color);
     
     text-align: center;
@@ -88,7 +87,6 @@
     letter-spacing: 0.04em;
 
     background-color: var(--secondary-background-color);
-    border: 1px solid #F4F4FD;
     cursor: pointer;
   }
 
@@ -102,9 +100,6 @@
     background-color: var(--primary-logo-color);
     color: #ffffff;
 
-    border: none;
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    border-radius: 4px;
   }
   
   .primary-section{
