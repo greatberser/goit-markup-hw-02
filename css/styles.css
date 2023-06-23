@@ -78,10 +78,8 @@
     cursor: pointer;
   }
 
-  .active{
-    color: #4d5ae5;
-  }
 
+  
   .btn:hover, 
   .btn:focus{
     background-color: var(--hover-color);
