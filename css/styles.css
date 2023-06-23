@@ -78,7 +78,9 @@
     cursor: pointer;
   }
 
-
+  .btn.activer{
+    color: #4D5AE5;
+  }
   
   .btn:hover, 
   .btn:focus{
